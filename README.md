@@ -3,8 +3,8 @@
 **Objective:** Analyze the given database and provide insights to stakeholders.
 
 **Tools Used:** 
-Postgre SQL (For getting insights using SQL)
-Pg Admin4
+Postgre SQL
+PgAdmin4
 
 **Knowledge gained in:**
 
